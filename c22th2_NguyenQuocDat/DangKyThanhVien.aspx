@@ -23,7 +23,7 @@
                 <div class="col-md-8">
                     <div class=" row mt-2 mb-2 ">
                         <div class="col-md-3">
-                            tên Đăng nhập
+                            Tên Đăng nhập
                         </div>
                         <div class="col-md-9">
                             <asp:TextBox ID="txtTenDN" runat="server" CssClass="form-control"></asp:TextBox>
