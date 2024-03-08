@@ -32,7 +32,7 @@
                     </div>
                      <div class=" row mt-2 mb-2 ">
                         <div class="col-md-3">
-                           Mật khẩu
+                           Mật khẩuu
                         </div>
                         <div class="col-md-9">
                             <asp:TextBox ID="txtMatKhau" runat="server" CssClass="form-control"></asp:TextBox>
